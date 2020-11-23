@@ -4,7 +4,19 @@
   "description": "A CLI for editing music metadata",
   "main": "MetaEditor.js",
   "dependencies": {
-    "music-metadata": "^7.5.0"
+    "@octokit/auth-basic": "^1.4.7",
+    "@octokit/rest": "^18.0.9",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
+    "minimist": "^1.2.5",
+    "music-metadata": "^7.5.0",
+    "simple-git": "^2.23.0",
+    "touch": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {

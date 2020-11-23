@@ -1,0 +1,28 @@
+{
+  "name": "metaeditor",
+  "version": "1.0.0",
+  "description": "A CLI for editing music metadata",
+  "main": "MetaEditor.js",
+  "dependencies": {
+    "music-metadata": "^7.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soulless-404/MetaEditor.git"
+  },
+  "keywords": [
+    "editor",
+    "CLI",
+    "Music"
+  ],
+  "author": "Soulless-404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soulless-404/MetaEditor/issues"
+  },
+  "homepage": "https://github.com/Soulless-404/MetaEditor#readme"
+}
